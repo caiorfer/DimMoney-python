@@ -1,1 +1,1 @@
-print("Implatação efetuada com sucesso")
+print("Implantação efetuada com sucesso")
